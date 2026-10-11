@@ -1,0 +1,8 @@
+:HL["/study-buddy-app/_next/static/chunks/23osp0bz7japb.css","style"]
+:HL["/study-buddy-app/_next/static/media/07454f8ad8aaac57-s.p.2kjei9psvcorz.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/study-buddy-app/_next/static/media/e02f5397fa089978-s.p.44viw-yrdjpq4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":{"n":"chapter","t":"d","k":"ch18","s":[]},"h":96,"c":"$Q4"}]]
+2:[["children",{"s":{"n":"subject","t":"d","k":"hindi","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"learn","h":96,"c":"$Q2"}]]
+0:{"b":"55MUFcmMRlB_RM4peJHvz","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
